@@ -1,0 +1,12 @@
+@import 'base/variable';
+body{
+    background: $bg;
+    color: $red;
+}
+
+a{
+    // -webkit-ransition: all 320ms ease;
+    // -ms-transition: all 320ms ease;
+    // -o-transition: all 320ms ease;
+    transition: all 320ms ease;
+}
